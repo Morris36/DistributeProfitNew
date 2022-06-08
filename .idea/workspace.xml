@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="DistributeProfit-master:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33cc8783-ec14-4e8d-b8b8-a9e9f8aa4e06" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/DistributeProfit_master_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/DistributeProfit_master_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/DistributeProfit_master_jar/DistributeProfit-master.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/DistributeProfit_master_jar/DistributeProfit-master.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/App/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/App/ControllerAddAgent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App/ControllerAddAgent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/App/ControllerAddProject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App/ControllerAddProject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/App/ControllerAddWindowOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App/ControllerAddWindowOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/App/ControllerRemoveAgent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App/ControllerRemoveAgent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/App/ControllerRemoveProject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App/ControllerRemoveProject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/App/ControllerRes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App/ControllerRes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/App/ControllerResultOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App/ControllerResultOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/App/ControllerStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App/ControllerStart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Backpack/Agent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Backpack/Agent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Backpack/Backpack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Backpack/Backpack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Backpack/Project.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Backpack/Project.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataBank/ActivePOJO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataBank/ActivePOJO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataBank/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataBank/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataBank/TMPSimplex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataBank/TMPSimplex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataBank/UnionAgents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataBank/UnionAgents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataBank/UnionString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataBank/UnionString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FileReader/ReaderTXT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FileReader/ReaderTXT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FileScanner/FileXLS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FileScanner/FileXLS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Launcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Simplex/SimplexMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Simplex/SimplexMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/App/ResultOne.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/App/ResultOne.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2gHI9rLW7GkyEbp04t68zBuulns" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/79529/Downloads/javafx-sdk-21.0.3/lib",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/App" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="App" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App.Application" />
+      <module name="DistributeProfit-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="App.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Launcher" />
+      <module name="DistributeProfit-master" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in DistributeProfit-master" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DistributeProfit-master" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.Launcher" />
+        <item itemvalue="JUnit.All in DistributeProfit-master" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33cc8783-ec14-4e8d-b8b8-a9e9f8aa4e06" name="Changes" comment="" />
+      <created>1715347929463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715347929463</updated>
+      <workItem from="1715347930545" duration="192000" />
+      <workItem from="1715348127304" duration="13365000" />
+      <workItem from="1715435431854" duration="598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/App/ControllerCouple.java</url>
+          <line>160</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/App/ControllerCouple.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
