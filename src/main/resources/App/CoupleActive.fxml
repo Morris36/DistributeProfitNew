@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="364.0" prefWidth="667.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="App.ControllerCouple">
+    <children>
+        <TableView fx:id="tableActiv" prefHeight="300" prefWidth="667">
+            <columns>
+                <TableColumn prefWidth="75.0" text="C1" />
+                <TableColumn prefWidth="75.0" text="C2" />
+            </columns>
+        </TableView>
+        <Button fx:id="result" layoutX="184.0" layoutY="320" mnemonicParsing="false" prefHeight="26.0" prefWidth="342.0" text="Вернуться в предыдущее окно"/>
+    </children>
+</AnchorPane>
